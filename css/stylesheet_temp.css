@@ -12,6 +12,11 @@ h1 {
   color: #FFFFFF;
   text-align: center;
   padding: 60px 0 5px 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
 }
 
 h2 {
