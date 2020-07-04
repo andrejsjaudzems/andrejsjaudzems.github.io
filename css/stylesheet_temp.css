@@ -35,7 +35,7 @@ h2 {
 }
 
 #string-container {
-  background-color: green;
+  background-color: purple;
   padding: 5px 0px 0px 0px;
 }
 
@@ -45,4 +45,8 @@ h2 {
 
 .string-end {
   display: inline-block;
+}
+
+.string-end:hover:before {
+  content: 'much later.';
 }
