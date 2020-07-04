@@ -33,20 +33,3 @@ h2 {
   text-align: center;
   padding: 0px 0px 0px 0px;
 }
-
-#string-container {
-  background-color: purple;
-  padding: 5px 0px 0px 0px;
-}
-
-.string-start {
-  display: inline-block;
-}
-
-.string-end {
-  display: inline-block;
-}
-
-.string-end:hover:before {
-  content: 'much later.';
-}
