@@ -33,3 +33,16 @@ h2 {
   text-align: center;
   padding: 0px 0px 0px 0px;
 }
+
+.hover-me:before {
+  content: 'new';
+  display: inline-block;
+  background: green;
+  color: white;
+  padding: 3px;
+}
+
+.hover-me:hover:before {
+  content: 'add';
+  background-color: red;
+}
