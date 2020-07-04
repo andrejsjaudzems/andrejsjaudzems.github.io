@@ -47,11 +47,6 @@ h2 {
   display: inline-block;
 }
 
-.hover-me:after {
-  content: 'later.';
-  display: inline-block;
-}
-
-.hover-me:hover:after {
-  content: 'at the end of the year.';
+#string-end:hover {
+  content: 'much later.';
 }
