@@ -35,19 +35,18 @@ h2 {
 }
 
 #string-container {
-  background-color: yellow;
+  background-color: purple;
   padding: 5px 0px 0px 0px;
 }
 
-#string-start {
+.string-start {
   display: inline-block;
 }
 
-#string-end {
+.string-end {
   display: inline-block;
-  content: 'later.';
 }
 
-#string-end:hover {
+.string-end:hover {
   content: 'much later.';
 }
