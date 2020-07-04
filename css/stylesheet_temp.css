@@ -35,7 +35,7 @@ h2 {
 }
 
 #string-container {
-  background-color: green;
+  background-color: yellow;
   padding: 5px 0px 0px 0px;
 }
 
@@ -45,6 +45,7 @@ h2 {
 
 #string-end {
   display: inline-block;
+  content: 'later.';
 }
 
 #string-end:hover {
