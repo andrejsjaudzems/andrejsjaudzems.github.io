@@ -35,8 +35,7 @@ h2 {
 }
 
 #string-container {
-  display: inline-block;
-  background-color: yellow;
+  background-color: orange;
   padding: 5px 0px 0px 0px;
 }
 
