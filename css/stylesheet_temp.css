@@ -43,10 +43,11 @@ h2 {
   display: inline-block;
 }
 
-.string-end {
+.string-end:before {
   display: inline-block;
+  content: 'later.'
 }
 
-.string-end:hover {
+.string-end:hover:before {
   content: 'much later.';
 }
