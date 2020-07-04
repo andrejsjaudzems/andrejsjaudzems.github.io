@@ -37,12 +37,8 @@ h2 {
 .hover-me:after {
   content: 'later.';
   display: inline-block;
-  background: green;
-  color: white;
-  padding: 3px;
 }
 
-.hover-me:hover:before {
+.hover-me:hover:after {
   content: 'at the end of the year.';
-  background-color: red;
 }
