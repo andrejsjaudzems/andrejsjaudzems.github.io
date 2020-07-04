@@ -34,6 +34,10 @@ h2 {
   padding: 0px 0px 0px 0px;
 }
 
+span {
+  background-color: blue;
+}
+
 .hover-me:after {
   content: 'later.';
   display: inline-block;
