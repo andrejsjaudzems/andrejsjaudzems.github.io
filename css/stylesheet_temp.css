@@ -34,8 +34,8 @@ h2 {
   padding: 0px 0px 0px 0px;
 }
 
-.hover-me:before {
-  content: 'new';
+.hover-me:after {
+  content: 'later.';
   display: inline-block;
   background: green;
   color: white;
@@ -43,6 +43,6 @@ h2 {
 }
 
 .hover-me:hover:before {
-  content: 'add';
+  content: 'at the end of the year.';
   background-color: red;
 }
