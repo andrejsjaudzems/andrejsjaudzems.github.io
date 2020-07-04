@@ -35,7 +35,7 @@ h2 {
 }
 
 #string-container {
-  background-color: orange;
+  background-color: green;
   padding: 5px 0px 0px 0px;
 }
 
@@ -43,4 +43,6 @@ h2 {
   display: inline-block;
 }
 
-
+.string-end {
+  display: inline-block;
+}
